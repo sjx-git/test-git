@@ -28,3 +28,6 @@ this is test1.0
 
 
 dev的合并
+
+
+fixed bug
